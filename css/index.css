@@ -1,0 +1,12 @@
+#background {
+    background-color: rgb(211,211,211)
+}
+
+#name {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(31, 38, 133);
+}
+
+#profilePicture {
+   size: 50%;
+}
