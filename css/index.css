@@ -1,5 +1,6 @@
-#background {
-    background-color: rgb(211,211,211)
+#body {
+    background-color: rgb(211,211,211);
+    padding: 20px;
 }
 
 #name {
@@ -8,5 +9,19 @@
 }
 
 #profilePicture {
-   size: 50%;
+   width: 200px;
+   height: auto;
+   margin-bottom: 8px;
+}
+
+.card {
+    width: 18rem;
+}
+
+.cardImg {
+    height: 40%
+}
+
+#courses {
+    flex-direction: row;
 }

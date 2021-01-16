@@ -1,0 +1,39 @@
+#body {
+    background-color: rgb(211,211,211);
+    padding: 20px;
+}
+
+.question {
+    margin-bottom: 10px;
+}
+
+.let {
+    color: blue;
+}
+
+.console {
+    color: turquoise;
+}
+
+.log {
+    color: purple;
+}
+
+.operator {
+    color: red;
+}
+
+.retrun {
+    color: purple;
+}
+
+.answer {
+    margin-top: 10px;
+    margin-right: 10px;
+    float: right;
+    font-size: 7pt;
+}
+
+.tab {
+    margin-left: 2.5em;
+}

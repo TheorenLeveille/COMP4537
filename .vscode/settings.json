@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/000c295e-8213-4aeb-a321-46afa9ad1135/resourceGroups/comp4537website/providers/Microsoft.Web/sites/theorenleveille",
+    "appService.deploySubpath": "."
+}

@@ -1,0 +1,21 @@
+#body {
+    background-color: rgb(211,211,211);
+    padding: 20px;
+}
+
+.lab-list {
+    max-width: 400px;
+}
+
+.banner {
+    width: 100%;
+}
+
+.banner-img {
+    width: inherit;
+}
+
+.btn {
+    margin-top: 20px;
+    margin-left: 35px;
+}
